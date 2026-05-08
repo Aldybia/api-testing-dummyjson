@@ -149,19 +149,7 @@ Buka file tersebut di browser untuk melihat:
 
 ---
 
-## 👤 Author
-
-**ALDI** — Mahasiswa Universitas ATMA JAYA
-- GitHub: [@aldybia](https://github.com/Aldybia)
-
----
 
 ## 📝 Catatan
 
 > Folder **REQRES** dalam collection menggunakan variable `{{reqres_url}}` yang tidak dikonfigurasi dalam pengujian ini, sehingga request pada folder tersebut tidak dapat dieksekusi. Fokus pengujian adalah pada endpoint **DummyJSON**.
-
----
-
-<p align="center">
-  Dibuat dengan ❤️ menggunakan Postman & Newman
-</p>
